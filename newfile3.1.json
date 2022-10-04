@@ -1,0 +1,40 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4119945,
+               "lng" : -99.13892279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.41334117989272,
+                  "lng" : -99.13760687010729
+               },
+               "southwest" : {
+                  "lat" : 19.41064152010728,
+                  "lng" : -99.14030652989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Escuela Primaria \"Francisco Giner de los Rios\"",
+         "place_id" : "ChIJSywHP9z-0YUR4N445CqsJQ8",
+         "plus_code" : {
+            "compound_code" : "CV66+RF Mexico City",
+            "global_code" : "76F2CV66+RF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJSywHP9z-0YUR4N445CqsJQ8",
+         "scope" : "GOOGLE",
+         "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "Isabel La Católica 370, Obrera, Ciudad de México"
+      }
+   ],
+   "status" : "OK"
+}

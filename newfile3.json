@@ -1,0 +1,287 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.5380857,
+               "lng" : -89.3314096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.53943422989272,
+                  "lng" : -89.33008177010728
+               },
+               "southwest" : {
+                  "lat" : 20.53673457010728,
+                  "lng" : -89.33278142989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Capilla de la Mejorada",
+         "place_id" : "ChIJ-cxqUkX3Vo8RQ58e8S6itVM",
+         "plus_code" : {
+            "compound_code" : "GMQ9+6C Tekit, Yucatan",
+            "global_code" : "76GGGMQ9+6C"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ-cxqUkX3Vo8RQ58e8S6itVM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Sin nombre No. 1 175, Centro, Tekit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.5342885,
+               "lng" : -89.3328063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.53564637989273,
+                  "lng" : -89.33150962010728
+               },
+               "southwest" : {
+                  "lat" : 20.53294672010728,
+                  "lng" : -89.33420927989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Iglesia San Antonio de Padua",
+         "photos" : [
+            {
+               "height" : 3907,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103702776009413347455\"\u003eIrving Ek Herrera\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhmY6qyTmzyvStyiUBMz70p2tHgbQZAEEyqUbj2Q8sLKzMqYdbr2JV1StPA0seX8dBi25wngC_dmwD9Fvv7mNWj9TPVZPTFsr31322-4KcMiVmynwq9UcUpJugmRiPB_qSrDi2a3J23zqY6ZAvvvbSrdH1pHfCI3aR1-CTG7RGGI8yL",
+               "width" : 2442
+            }
+         ],
+         "place_id" : "ChIJ5QyIb0X3Vo8RCk5dRo27yuc",
+         "plus_code" : {
+            "compound_code" : "GMM8+PV Centro, Tekit, Yucatan",
+            "global_code" : "76GGGMM8+PV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ5QyIb0X3Vo8RCk5dRo27yuc",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40,
+         "vicinity" : "97680 Centro,, C. 26 202C, Centro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.5297651,
+               "lng" : -89.3415613
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.53112212989272,
+                  "lng" : -89.34021172010728
+               },
+               "southwest" : {
+                  "lat" : 20.52842247010728,
+                  "lng" : -89.34291137989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Iglesia Fuente de Vida Tekit",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102175467761252153147\"\u003eCarlos Cruz\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRh9ylV5TKoRXHvmqG6OrHqsmc7FD7lALNXx5mNjeNEIFlK2a_kr8RA1AWVQGpS7K9Fwl2x_fdxgFG4mNPqyPM4qYNMCm45DShufy9aDVqS_xQo7SAmJHX_4aBF17oIuFhIwNaHcDaQsdO6mpMYUbv3TwjEgpIbBdZeoPP9SdWdS3eV-",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ4Qw8yfb3Vo8R2IiGQIKQkU8",
+         "plus_code" : {
+            "compound_code" : "GMH5+W9 Tekit, Yucatan",
+            "global_code" : "76GGGMH5+W9"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ4Qw8yfb3Vo8R2IiGQIKQkU8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Tekit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.534574,
+               "lng" : -89.3302611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.53596867989272,
+                  "lng" : -89.32890782010726
+               },
+               "southwest" : {
+                  "lat" : 20.53326902010727,
+                  "lng" : -89.33160747989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "El divino Salvador",
+         "place_id" : "ChIJ0--o7vz3Vo8RYUQba3hAEQM",
+         "plus_code" : {
+            "compound_code" : "GMM9+RV Tekit, Yucatan",
+            "global_code" : "76GGGMM9+RV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ0--o7vz3Vo8RYUQba3hAEQM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "C. 23 184, Tekit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.5346081,
+               "lng" : -89.33309299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.53599522989272,
+                  "lng" : -89.33173402010726
+               },
+               "southwest" : {
+                  "lat" : 20.53329557010728,
+                  "lng" : -89.33443367989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Catedral",
+         "photos" : [
+            {
+               "height" : 1146,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108862076113400282635\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRg4NPMIOtG5Tp0pjYkSMtIn9f0pNKcSiz4DauQNXkG7eG858KbGQwQ2D08KsWDftPwfAPNECdmsk-aOeK1G4iqJPq3yp-rg2HLkz_vouPwqUnC1Mn40w819nAWBYBm4EfQllYtZKiWsm5xE3wuNEdR6LEmAiqes9jcTuhJomi4Gx9kI",
+               "width" : 947
+            }
+         ],
+         "place_id" : "ChIJSXqAzFD3Vo8R1LGs17Xmudw",
+         "plus_code" : {
+            "compound_code" : "GMM8+RQ Tekit, Yucatan",
+            "global_code" : "76GGGMM8+RQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJSXqAzFD3Vo8R1LGs17Xmudw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "C. 23 203, Centro, Tekit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.5420711,
+               "lng" : -89.33301849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.54339247989272,
+                  "lng" : -89.33166442010727
+               },
+               "southwest" : {
+                  "lat" : 20.54069282010728,
+                  "lng" : -89.33436407989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "IGLESIA BAUTISTA PENIEL",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ2w30P8P3Vo8RdN_AMhBsoGM",
+         "plus_code" : {
+            "compound_code" : "GMR8+RQ Tekit, Yucatan",
+            "global_code" : "76GGGMR8+RQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ2w30P8P3Vo8RdN_AMhBsoGM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "C. 11, Tekit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.5281541,
+               "lng" : -89.3318778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.52956112989272,
+                  "lng" : -89.33041732010729
+               },
+               "southwest" : {
+                  "lat" : 20.52686147010728,
+                  "lng" : -89.33311697989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "San Rafael",
+         "photos" : [
+            {
+               "height" : 1330,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111233421131530835489\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRgVda8nsXTcaEz3JmgokKWFQM_NYwGPtmy61Wth8ySY50B6ReAvXGbYO1X3bgFngghcGAlZdY5NKVh07qUuK6EvCSArWmbex3yW6zRIr13nTD6xzH0BXzEsReUPkNNQGmixFuBe9TlInX1sqK-Io48zZItDBfwWkkD62NdnyMgV88UA",
+               "width" : 2364
+            }
+         ],
+         "place_id" : "ChIJ29NRtBT3Vo8R9FP0bqDqz38",
+         "plus_code" : {
+            "compound_code" : "GMH9+76 Tekit, Yucatan",
+            "global_code" : "76GGGMH9+76"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ29NRtBT3Vo8R9FP0bqDqz38",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Calle 22, Tekit"
+      }
+   ],
+   "status" : "OK"
+}
